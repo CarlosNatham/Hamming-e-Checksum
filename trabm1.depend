@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1616893760 source:c:\users\carlo\desktop\trab comunicação digital\trabm1\main.cpp
+	<iostream>
+	<locale.h>
+	<cstdlib>
+	<ctime>
+
